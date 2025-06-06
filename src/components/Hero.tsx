@@ -10,7 +10,7 @@ export const Hero = () => {
           <div className="text-center lg:text-left">
             <div className="mb-8">
               <img
-                src="/lovable-uploads/deacfeb1-dc49-4c2d-97f4-5a301aba4131.png"
+                src="/lovable-uploads/302809a4-5550-46e2-b820-c7a41a3f183f.png"
                 alt="Ramkumar M R"
                 className="w-48 h-48 rounded-full mx-auto lg:mx-0 object-cover border-4 border-white shadow-2xl"
               />
